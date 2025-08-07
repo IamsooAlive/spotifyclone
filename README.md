@@ -207,4 +207,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ---
 
-**Built with ❤️ by [Your Name]** - Demonstrating full-stack proficiency through modern web development practices.
+Live Demo - https://spotifyslone2.netlify.app/
